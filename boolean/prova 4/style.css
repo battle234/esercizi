@@ -1,0 +1,37 @@
+.container{
+  width: 1000px;
+  margin: auto;
+  background-color: brown;
+}
+img{
+  width: 100px;
+}
+input{
+  margin-left: auto;
+}
+#numero{
+  background-color: yellow;
+  border-radius: 50%;
+  padding: 5px;
+}
+.row-left{
+  display: inline-block;
+  width: 30%
+}
+
+.row-right{
+  display: inline-block;
+  width: 68%
+}
+
+.row{
+  background-color: grey;
+}
+
+footer{
+  text-align: center;
+}
+
+#bolean{
+  font-size: 25px
+}
